@@ -1,58 +1,36 @@
-# 📸 Instagram Photo Feed (Bootstrap)
+📸 Feed de fotos de Instagram (Bootstrap)
+Este proyecto es una réplica visual del feed de fotos de Instagram, creado como ejercicio práctico utilizando HTML, CSS y Bootstrap.
+Se enfoca en el diseño de la estructura, el diseño responsivo y la estructura de componentes sin funcionalidad JavaScript.
 
-This project is a visual replica of the Instagram photo feed, created as a practice exercise using **HTML**, **CSS**, and **Bootstrap**.  
-It focuses on layout, responsive design, and component structure without JavaScript functionality.
+💻 Tecnologías utilizadas
+HTML5
+CSS3
+Bootstrap 4
+Prácticas de diseño responsivo
 
----
+🖼️ Características
+Diseño limpio y moderno inspirado en Instagram
+Uso del sistema de cuadrícula de Bootstrap y clases utilitarias
+Versión estática de publicaciones, cabecera de usuario y acciones
+Estilos responsivos para dispositivos móviles (dependiendo del tamaño de pantalla)
 
-## 💻 Technologies used
+📁 Estructura del proyecto
+index.html → Estructura principal en HTML
+index.css → Estilos personalizados y sobrecargas
+assets/ → (opcional) Carpeta de imágenes o íconos
 
-- HTML5  
-- CSS3  
-- Bootstrap 4  
-- Responsive layout practices
+🚀 Cómo ver el proyecto
+Puedes ver el proyecto localmente abriendo el archivo index.html en tu navegador.
 
----
+O, si está desplegado, visita:
+📎 GitHub Pages (si está disponible)
 
-## 🖼️ Features
+📌 Estado del proyecto
+✅ Completado como ejercicio de maquetación. Abierto a futuras mejoras como agregar interactividad, animaciones o obtener datos con JavaScript.
 
-- Clean and modern layout inspired by Instagram  
-- Use of Bootstrap grid system and utility classes  
-- Static version of posts, user header, and actions  
-- Mobile-responsive styling (depending on screen size)
+🙋‍♀️ Sobre mí
+Soy un desarrollador junior que actualmente está finalizando mis estudios en Desarrollo de Aplicaciones Multiplataforma (FP DAM) y completando un bootcamp de Full Stack en 4Geeks Academy.
+📫 Conéctate conmigo en LinkedIn
 
----
-
-## 📁 Project structure
-
-- `index.html` → Main HTML structure  
-- `index.css` → Custom styles and overrides  
-- `assets/` → (optional) Images or icons folder
-
----
-
-## 🚀 How to view the project
-
-You can view the project locally by opening the `index.html` file in your browser.
-
-Or, if deployed, visit:  
-📎 [GitHub Pages (if available)]()
-
----
-
-### 📌 Project status
-
-✅ Completed as a layout exercise. Open to future improvements such as adding interactivity, animations, or data fetching with JavaScript.
-
----
-
-### 🙋‍♀️ About me
-
-I'm a junior developer currently finishing my studies in **Multiplatform Application Development (FP DAM)** and completing a **Full Stack bootcamp at 4Geeks Academy**.  
-📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/nelcy-garc%C3%ADa-56b97111b/)
-
----
-
-### 📝 Credits
-
-This project was developed as part of the **layout and Bootstrap practice** during the Full Stack bootcamp at [4Geeks Academy](https://4geeksacademy.com/), with my own customizations and styling.
+📝 Créditos
+Este proyecto fue desarrollado como parte del ejercicio de maquetación y práctica con Bootstrap durante el bootcamp de Full Stack en 4Geeks Academy, con mis propias personalizaciones y estilos
