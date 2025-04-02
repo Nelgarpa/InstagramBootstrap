@@ -1,30 +1,58 @@
-# HTML Hello
+# 📸 Instagram Photo Feed (Bootstrap)
 
-The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
+This project is a visual replica of the Instagram photo feed, created as a practice exercise using **HTML**, **CSS**, and **Bootstrap**.  
+It focuses on layout, responsive design, and component structure without JavaScript functionality.
 
-> There is a video tutorial on [how to use this template to create your very first website here](https://youtu.be/dfbDCMu_p-0).
+---
 
-## What to do next?
+## 💻 Technologies used
 
-Create an `index.html` file with the [basic HTML structure](http://4geeks.com/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+- HTML5  
+- CSS3  
+- Bootstrap 4  
+- Responsive layout practices
 
-```bash
-$ pip3 install flask && python3 server.py
-```
+---
 
-- You can create as many HTML files as you want.
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+## 🖼️ Features
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+- Clean and modern layout inspired by Instagram  
+- Use of Bootstrap grid system and utility classes  
+- Static version of posts, user header, and actions  
+- Mobile-responsive styling (depending on screen size)
 
-### Contributors
+---
 
-This template was built as part of the [Full Stack Developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) at [4Geeks Academy Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and [many other contributors](https://github.com/4GeeksAcademy/html-hello/graphs/contributors).
+## 📁 Project structure
 
-You can find other templates and resources like this at the [school's GitHub page](https://github.com/4geeksacademy/).
+- `index.html` → Main HTML structure  
+- `index.css` → Custom styles and overrides  
+- `assets/` → (optional) Images or icons folder
+
+---
+
+## 🚀 How to view the project
+
+You can view the project locally by opening the `index.html` file in your browser.
+
+Or, if deployed, visit:  
+📎 [GitHub Pages (if available)]()
+
+---
+
+### 📌 Project status
+
+✅ Completed as a layout exercise. Open to future improvements such as adding interactivity, animations, or data fetching with JavaScript.
+
+---
+
+### 🙋‍♀️ About me
+
+I'm a junior developer currently finishing my studies in **Multiplatform Application Development (FP DAM)** and completing a **Full Stack bootcamp at 4Geeks Academy**.  
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/nelcy-garc%C3%ADa-56b97111b/)
+
+---
+
+### 📝 Credits
+
+This project was developed as part of the **layout and Bootstrap practice** during the Full Stack bootcamp at [4Geeks Academy](https://4geeksacademy.com/), with my own customizations and styling.
