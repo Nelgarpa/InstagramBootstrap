@@ -31,16 +31,6 @@ Se enfoca en el diseño de la estructura, el diseño responsivo y la estructura 
 
 ---
 
-## 🚀 Como ver el proyecto
-
-Puedes ver el proyecto localmente abriendo el archivo index.html en tu navegador.
-
-O, si está desplegado, visita:
-📎 GitHub Pages (si está disponible)
-
-
----
-
 ### 📌 Estatus de Proyecto
 
 ✅ Completado como ejercicio de maquetación. Abierto a futuras mejoras como agregar interactividad, animaciones o obtener datos con JavaScript.
@@ -50,8 +40,7 @@ O, si está desplegado, visita:
 ### 🙋‍♀️ Acerca de mi
 
 Soy un desarrollador junior que actualmente está finalizando mis estudios en Desarrollo de Aplicaciones Multiplataforma (FP DAM) y completando un bootcamp de Full Stack en 4Geeks Academy.
-📫 Conéctate conmigo en LinkedIn (https://www.linkedin.com/in/nelcy-garc%C3%ADa-56b97111b/)
-
+📫  [Connect with me on LinkedIn](https://www.linkedin.com/in/nelcy-garc%C3%ADa-56b97111b/)
 ---
 
 ### 📝 Creditos
