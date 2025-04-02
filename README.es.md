@@ -41,6 +41,8 @@ Se enfoca en el diseño de la estructura, el diseño responsivo y la estructura 
 
 Soy un desarrollador junior que actualmente está finalizando mis estudios en Desarrollo de Aplicaciones Multiplataforma (FP DAM) y completando un bootcamp de Full Stack en 4Geeks Academy.
 📫  [Connect with me on LinkedIn](https://www.linkedin.com/in/nelcy-garc%C3%ADa-56b97111b/)
+
+
 ---
 
 ### 📝 Creditos
