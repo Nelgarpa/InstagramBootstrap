@@ -31,15 +31,6 @@ It focuses on layout, responsive design, and component structure without JavaScr
 
 ---
 
-## 🚀 How to view the project
-
-You can view the project locally by opening the `index.html` file in your browser.
-
-Or, if deployed, visit:  
-📎 [GitHub Pages (if available)]()
-
----
-
 ### 📌 Project status
 
 ✅ Completed as a layout exercise. Open to future improvements such as adding interactivity, animations, or data fetching with JavaScript.
