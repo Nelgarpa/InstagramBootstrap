@@ -1,33 +1,58 @@
-# HTML Hello
+# 📸 Instagram Photo Feed (Bootstrap)
 
-El boilerplate más básico para cualquier estudiante de 4Geeks Academy, empieza tu primer sitio web desde cero.
+This project is a visual replica of the Instagram photo feed, created as a practice exercise using **HTML**, **CSS**, and **Bootstrap**.  
+It focuses on layout, responsive design, and component structure without JavaScript functionality.
 
-> Tienes un video tutorial sobre [cómo usar esta plantilla para crear tu primer sitio web aquí](https://youtu.be/dfbDCMu_p-0).
+---
 
-## ¿Qué hacer a continuación?
+## 💻 Technologies used
 
-Crea un archivo `index.html` con [la estructura básica de HTML](https://4geeks.com/es/lesson/what-is-html-learn-html-es#estructura-de-pgina) y ve el resultado en vivo corriendo un servidor web utilizando el siguiente comando:
+- HTML5  
+- CSS3  
+- Bootstrap 4  
+- Responsive layout practices
 
-```bash
-$ pip3 install flask && python3 server.py
-```
+---
 
-- Puedes crear tantos archivos HTML cómo desees.
-- También puedes crear archivos CSS e importarlos en tu página web utilizando una etiqueta `<link>` ubicándola entre las etiquetas `<head></head>`, de la siguiente manera:
+## 🖼️ Features
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+- Clean and modern layout inspired by Instagram  
+- Use of Bootstrap grid system and utility classes  
+- Static version of posts, user header, and actions  
+- Mobile-responsive styling (depending on screen size)
 
+---
 
-## Agradecimientos
+## 📁 Project structure
 
-Esta y otras plantillas son utilizadas para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp). 
+- `index.html` → Main HTML structure  
+- `index.css` → Custom styles and overrides  
+- `assets/` → (optional) Images or icons folder
 
-Realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. 
+---
 
-Conoce más sobre nuestros [Cursos de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero/?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/desarrollador-full-stack/desarrollador-full-stack), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
+## 🚀 How to view the project
+
+You can view the project locally by opening the `index.html` file in your browser.
+
+Or, if deployed, visit:  
+📎 [GitHub Pages (if available)]()
+
+---
+
+### 📌 Project status
+
+✅ Completed as a layout exercise. Open to future improvements such as adding interactivity, animations, or data fetching with JavaScript.
+
+---
+
+### 🙋‍♀️ About me
+
+I'm a junior developer currently finishing my studies in **Multiplatform Application Development (FP DAM)** and completing a **Full Stack bootcamp at 4Geeks Academy**.  
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/nelcy-garc%C3%ADa-56b97111b/)
+
+---
+
+### 📝 Credits
+
+This project was developed as part of the **layout and Bootstrap practice** during the Full Stack bootcamp at [4Geeks Academy](https://4geeksacademy.com/), with my own customizations and styling.
